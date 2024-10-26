@@ -3,6 +3,11 @@
 
 AutoGraph is a robust tool for automating Exploratory Data Analysis (EDA) and generating visual insights from datasets, making data preparation seamless and insightful. This project was designed to help data analysts, data scientists, and business professionals streamline the EDA process and simplify complex data visualizations.
 
+Live Demo: https://autographst.streamlit.app/
+
+## Home Page
+![Screenshot 2024-10-26 151813](https://github.com/user-attachments/assets/914446d9-0354-45f2-ae4d-ad977f329d81)
+
 This project demonstrates:
 
 - Automated EDA and customizable visualizations for quick, interactive insights
