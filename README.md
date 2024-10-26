@@ -21,20 +21,19 @@ This project demonstrates:
 
 Get started quickly by following these steps:
 1. Clone the repository:
-'''bash
+```bash
 git clone https://github.com/TawfiqMohammed/AutoGraph.git
 cd AutoGraph
-'''
+```
 
 2. Install dependencies: Ensure you have Streamlit and other required packages installed.
-'''bash
+```bash
 pip install -r requirements.txt
-'''
-
+```
 3. Launch AutoGraph:
-'''bash
+```bash
 streamlit run main.py
-'''
+```
 
 ## Usage Guide
 1. Upload a CSV file: Upload your dataset or select the example Titanic dataset from the sidebar.
